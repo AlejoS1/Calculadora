@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\bin\Debug\evaluacion.exe.config
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\bin\Debug\evaluacion.exe
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\bin\Debug\evaluacion.pdb
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\obj\Debug\evaluacion.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\obj\Debug\evaluacion.Form1.resources
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\obj\Debug\evaluacion.Properties.Resources.resources
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\obj\Debug\evaluacion.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\obj\Debug\evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\obj\Debug\evaluacion.exe
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\obj\Debug\evaluacion.pdb
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\obj\Debug\evaluacion.sumador.resources
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\obj\Debug\evaluacion.restar.resources
+C:\Users\usuario\source\repos\Prueba01-WinForm\Prueba01\evaluacion\evaluacion\evaluacion\obj\Debug\evaluacion.dividir.resources
